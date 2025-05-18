@@ -13,14 +13,16 @@ App built with Flutter. This app allows users to scan, save, and manage inventor
 
 ## Directory Structure
 
-lib/main.dart - Entry point of the app.
-data/models/ - Contains app data models.
-features/ - Contains self-contained, reusable widgets that encapsulate their own UI and business logic.
-screens/ - Contains all UI screens.
-utils/ - All helper classes for reusable, platform-specific, or UI independent logic.
-shared/ - Contains reusable message strings and enums, reusable widgets.
+-- lib/main.dart - Entry point of the app.  
+-- data/models/ - Contains app data models.  
+-- features/ - Contains self-contained, reusable widgets that encapsulate their own UI and business logic.  
+-- screens/ - Contains all UI screens.  
+-- utils/ - All helper classes for reusable, platform-specific, or UI independent logic.  
+-- shared/ - Contains reusable message strings and enums, reusable widgets.  
 
 ## Getting Started
 
---- flutter pub get
---- flutter run
+--- cd inventory  
+
+--- flutter pub get  
+--- flutter run  
