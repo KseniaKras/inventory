@@ -1,5 +1,3 @@
-
-
 import 'dart:io';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:barcode_scan2/barcode_scan2.dart';
@@ -36,6 +34,7 @@ class _InventoryState extends State<Inventory> {
           InfoMessages.permissionDenied,
           type: NotificationType.info,
         );
+
         return;
       }
 
@@ -48,6 +47,7 @@ class _InventoryState extends State<Inventory> {
           InfoMessages.scanningCancelled,
           type: NotificationType.info,
         );
+
         return;
       }
 
@@ -76,6 +76,7 @@ class _InventoryState extends State<Inventory> {
           ErrorMessages.permissionRequired,
           type: NotificationType.error,
         );
+
         return;
       }
 

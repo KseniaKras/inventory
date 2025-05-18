@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:inventorisation_app/data/models/equipment.dart';
 import 'package:provider/provider.dart';

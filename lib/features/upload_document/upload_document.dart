@@ -1,13 +1,11 @@
-
 import 'dart:io';
-
+import 'package:provider/provider.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:inventorisation_app/data/models/equipment.dart';
 import 'package:inventorisation_app/shared/constants/view.dart';
 import 'package:inventorisation_app/shared/widgets/widgets.dart';
 import 'package:inventorisation_app/utills/view.dart';
-import 'package:provider/provider.dart';
 
 class UploadDocument extends StatefulWidget {
   const UploadDocument({super.key});
