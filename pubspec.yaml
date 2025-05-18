@@ -1,0 +1,31 @@
+name: inventorisation_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  file_picker: ^10.1.9
+  provider: ^6.1.5
+  permission_handler: ^12.0.0+1
+  path_provider: ^2.1.5
+  barcode_scan2: ^4.5.1
+  device_info_plus: ^11.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
