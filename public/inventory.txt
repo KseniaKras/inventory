@@ -1,0 +1,7 @@
+1234567890123	5	Монитор Dell 24"
+9876543210987	2	Ноутбук Lenovo ThinkPad
+1112223334445	3	Принтер HP LaserJet
+2223334445556	10	Клавиатура Logitech K120
+3334445556667	7	Мышь Microsoft Wireless
+4445556667778	4	Монитор Samsung 27"
+5556667778889	1	Ноутбук Apple MacBook Air
